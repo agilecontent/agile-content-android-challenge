@@ -1,4 +1,4 @@
-<div align="end">  ![AgileContent](https://agilecontent.com/wp-content/uploads/2023/02/agile_content_RGB_color_black_green.webp) </div>
+<img src="https://agilecontent.com/wp-content/uploads/2023/02/agile_content_RGB_color_black_green.webp" alt="Agile Content" style="float: right; margin-left: 10px;" width="300">
 
 # <div align="center"> Android Developer level test </div>
 ## **Introduction**
